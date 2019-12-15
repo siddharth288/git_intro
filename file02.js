@@ -1,1 +1,1 @@
-console.log("Hey! We're learning git!")
+console.log("Hey! We're learning git")
